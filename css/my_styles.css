@@ -1,0 +1,62 @@
+.custom_background {
+    background-color: rgb(119, 169, 255) !important;
+}
+
+.custom_text {
+    color: rgb(87, 87, 255) !important;
+}
+
+.defualt_div {
+    position:absolute;
+    border: solid 2px rgb(142, 142, 243);
+    background-color: rgb(188, 211, 252);
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;   
+}
+
+.left_menu {
+    top: 64px;
+   left: 5px;
+   width: 300px;
+   height: 1427.9px
+}
+
+
+.main_content {
+    top: 64px;
+    left: 314px;
+    right: 5px;
+}
+
+.style_1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(107, 104, 113);
+}
+
+.style_2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+}
+
+
+.style_3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(53, 53, 147);
+    font-style:italic;
+}
+
+.style_4 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-weight: bolder;
+}
+a:hover {
+    color:rgb(37, 100, 37);
+    text-decoration: line-through;
+}
